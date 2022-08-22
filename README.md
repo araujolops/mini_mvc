@@ -5,7 +5,7 @@
 ## Criar um aplicativo com a arquitetura MVC usando o mini3 
 https://github.com/panique/mini3
 
-## Este repositório
+## Este repositório (Origem desse MVC)
 
 https://github.com/ribafs/mini-mvc
 
