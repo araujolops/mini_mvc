@@ -30,13 +30,13 @@ db.sql
 http://localhost/minit
 
 
-## Motivação
+## Motivação (Do Autor)
 
 Por algum tempo eu tentei entender a arquitetura MVC de forma a poder criar um aplicativo com as pastas com controllers, models e views separadas e também as rotas. E então fiz diversas pesquisas e experimentei diversos pequenos aplicativos e mini frameworks. Usei grandes frameworks como CakePHP e Laravel que usam MVC e gostei de como implementam, especialmente o CakePHP, que faz isso de forma bem organinzada. Mas entender como eles usam é uma coisa e reproduzir em um aplicativo seu, criado do zero, é outra coisa bem diferente.
 
 Recentemente encontrei um pequeno aplicativo que o autor (https://github.com/panique) chamou de mini3 e que tem uma estrutura MVC com rotas e o PSR-4 com composer e sem nenhuma dependência externa. Com este aplicativo eu consegui finalmente entender, mexer e extender o uso do MVC. 
 
-## Alterações principais que fiz:
+## Alterações principais que o Autor fez:
 
 - Renomeei a pasta application para app e também no composer.json
 - Renomeei os métodos nos Controllers, Models  views (exemplo):
