@@ -12,7 +12,7 @@ https://github.com/ribafs/mini-mvc
 ## Instalação
 
 - Faça o download e descompacte para mini3
-- Cope para seu diretório web e acesse a pasta mini3
+- Copie para seu diretório web e acesse a pasta mini3
 - Execute
 
 composer install
